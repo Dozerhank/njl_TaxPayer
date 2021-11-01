@@ -1,0 +1,5 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\TaxPayer\TaxPayer\obj\Debug\netcoreapp3.1\TaxPayer.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\TaxPayer\TaxPayer\obj\Debug\netcoreapp3.1\TaxPayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\TaxPayer\TaxPayer\obj\Debug\netcoreapp3.1\TaxPayer.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\TaxPayer\TaxPayer\obj\Debug\netcoreapp3.1\TaxPayer.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\TaxPayer\TaxPayer\obj\Debug\netcoreapp3.1\TaxPayer.csproj.CoreCompileInputs.cache
